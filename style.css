@@ -21,3 +21,8 @@ a {
   font-family: arial;
   padding: 12px 20px;
 }
+
+.logo {
+  width: 100%;
+  max-width: 500px;
+}
